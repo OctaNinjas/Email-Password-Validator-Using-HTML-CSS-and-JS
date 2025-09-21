@@ -3,7 +3,7 @@
 A simple login form project built with **HTML, CSS, and JavaScript**.  
 It validates user email and password input with the help of **regular expressions (regex)**.  
 
-## 🚀 Features
+## Features
 - Email validation (checks correct email format).
 - Password validation:
   - Minimum 8 characters.
